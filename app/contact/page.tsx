@@ -10,7 +10,7 @@ export default function ContactPage() {
 
       {/* Fixed WhatsApp Button */}
       <a
-        href="https://wa.me/34628764338"
+        href="https://wa.me/34666666666"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-8 right-8 z-50 bg-[#25D366] hover:bg-[#20BA5A] text-white rounded-full p-4 shadow-2xl transition-all duration-300 hover:scale-110 group"
@@ -53,7 +53,7 @@ export default function ContactPage() {
                   src="/salon1.jpeg"
                   alt="Interior del Salón - Estaciones profesionales de barbería"
                   fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-110"
+                  className="object-cover transition-transform duration-500 group-hover:scale-110 blur-3xl"
                   sizes="(max-width: 768px) 100vw, 50vw"
                   priority
                 />
@@ -70,7 +70,7 @@ export default function ContactPage() {
                   src="/salon2.jpeg"
                   alt="Interior del Salón - Ambiente moderno y acogedor"
                   fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-110"
+                  className="object-cover transition-transform duration-500 group-hover:scale-110 blur-3xl"
                   sizes="(max-width: 768px) 100vw, 50vw"
                   priority
                 />
@@ -135,10 +135,10 @@ export default function ContactPage() {
                       Llámanos
                     </h4>
                     <a
-                      href="tel:+34628764338"
+                      href="tel:+34666666666"
                       className="text-salon-gray-light hover:text-salon-red transition-colors duration-300 text-lg"
                     >
-                      +34 628 76 43 38
+                      +34 666 666 666
                     </a>
                   </div>
                 </div>
@@ -167,10 +167,10 @@ export default function ContactPage() {
                       Email
                     </h4>
                     <a
-                      href="mailto:cariccio@gmail.com"
+                      href="mailto:svq@gmail.com"
                       className="text-salon-gray-light hover:text-salon-red transition-colors duration-300 text-lg break-all"
                     >
-                      cariccio@gmail.com
+                      svq@gmail.com
                     </a>
                   </div>
                 </div>
@@ -219,7 +219,7 @@ export default function ContactPage() {
                 </h4>
                 <div className="flex gap-4">
                   <a
-                    href="https://www.instagram.com/cariccio_/"
+                    href="https://www.instagram.com/sv1/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-salon-red/10 hover:bg-salon-red p-4 rounded-lg transition-all duration-300 group"
@@ -234,7 +234,7 @@ export default function ContactPage() {
                     </svg>
                   </a>
                   <a
-                    href="https://www.tiktok.com/@cariccio_"
+                    href="https://www.tiktok.com/@svq"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-salon-red/10 hover:bg-salon-red p-4 rounded-lg transition-all duration-300 group"
@@ -265,7 +265,7 @@ export default function ContactPage() {
                       Nuestra Ubicación
                     </h4>
                     <p className="text-salon-gray-light text-lg leading-relaxed">
-                      Calle Fuente de la Salud, 101
+                      Calle San Roque, 101
                       <br />
                       41600, Arahal
                       <br />
@@ -284,7 +284,7 @@ export default function ContactPage() {
                       Encuéntranos en Arahal, Sevilla
                     </h4>
                     <p className="text-salon-gray-light mb-6">
-                      Calle Fuente de la Salud, 101
+                      Calle San Roque, 101
                       <br />
                       41600, Arahal, Sevilla
                     </p>
@@ -297,7 +297,7 @@ export default function ContactPage() {
                 </div>
                 <div className="p-6">
                   <a
-                    href="https://www.google.com/maps/dir//37.2615075,-5.5515031/@37.3753708,-5.9550582,9z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D"
+                    href="https://www.google.com/maps/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block w-full bg-salon-white hover:bg-salon-red text-salon-black hover:text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 text-center"
